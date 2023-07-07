@@ -1,0 +1,3 @@
+{"title": "1Q84", 
+"author": "Haruki Murakami", 
+"read": "true"}
